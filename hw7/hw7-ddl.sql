@@ -65,7 +65,7 @@ INSERT INTO skills ( skills_id, skills_name, skills_description, skills_tag ) va
 CREATE TABLE people (
     people_id int NOT NULL,
     people_first_name varchar(255),
-    people_last_name varchar(256) NOT NULL,
+    people_last_name varchar(255) NOT NULL,
     PRIMARY KEY (people_id),
     people_email varchar(255),
     people_linkedin_url varchar(255),

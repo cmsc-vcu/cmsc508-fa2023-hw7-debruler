@@ -1,1 +1,2 @@
-# cmsc508-fa2023-hw7-template
+# CMSC 508 Fall 2023 Homework 7
+This repository contains the files for Homework 7 in CMSC 508. In this assignment, a database was built using SQL in the file hw7-ddl.sql. Five different tables part of an employee resume database were built and populated. Once this was done, several queries were done on this database using SQL in the file hw7.qmd. This file was rendered into the viewable hw7.html file using Quarto. Other technologies used over the course of this assignment were python, poetry, pyenv, SQL, and the SQLTools extension for VSCode. 
